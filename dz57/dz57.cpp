@@ -1,6 +1,8 @@
 ﻿#include <iostream>
 #include <string>
 using namespace std;
+//Логічні оператори та оператори розгалужень
+//Основи програмування на мові С++
 //Завдання 1 
 //int main() {
 //    string input;
